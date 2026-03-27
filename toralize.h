@@ -3,5 +3,6 @@
 #include string.h
 
 #define PROXY "127.0.0.1"
+#define PROXY 90
 
 typedef struct req Req;
